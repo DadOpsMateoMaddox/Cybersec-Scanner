@@ -1,0 +1,5 @@
+python-nmap>=1.5.1
+shodan>=1.28.0
+opencv-python>=4.5.0
+requests>=2.25.1
+urllib3>=1.26.0
